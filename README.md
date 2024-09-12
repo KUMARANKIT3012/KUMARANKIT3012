@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KUMARANKIT3012
+- 👋 Hi, I’m ANKIT KUMAR
 - 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning DSA and further Web development.
 - 💞️ I’m looking to collaborate in building new projects....
