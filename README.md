@@ -1,7 +1,32 @@
-- 👋 ANKIT KUMAR is a passionate Computer Science student with strong skills in C++, Python, and SQL.
-- 👀 He's interested in learning new skills.
-- 🌱 He is focused on mastering Data Structures and Algorithms
-- 💞️ He's looking forward to collaborate in building new projects....
-- 📫 Reach Him at ankitkumar16729@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: "Ankit's love for coding sparked when he successfully automated his daily tasks using C++, motivating him to explore deeper into software development."
+<h1 align="center">Hi 👋, I'm 👋 ANKIT KUMAR is a passionate Computer Science student with strong skills in C++, Python, and SQL.</h1>
+<h3 align="center">Forthcoming Full Stack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarankit3012&label=Profile%20views&color=0e75b6&style=flat" alt="kumarankit3012" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarankit3012" alt="kumarankit3012" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://x.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home?logo=twitter&style=for-the-badge" alt="https://x.com/home" /></a> </p>
+
+- 🌱 I’m currently learning **DSA and Web Development**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ankitkumarsist/](https://www.linkedin.com/in/ankitkumarsist/)
+
+- 💬 Ask me about **C++,DSA,HTML,CSS,Javascript**
+
+- 📫 How to reach me **ankitkumar16729@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/home" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankitkumarsist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankitkumarsist/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ankitkumar16729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ankitkumar16729" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarankit3012&show_icons=true&locale=en&layout=compact" alt="kumarankit3012" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarankit3012&show_icons=true&locale=en" alt="kumarankit3012" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarankit3012&" alt="kumarankit3012" /></p>
