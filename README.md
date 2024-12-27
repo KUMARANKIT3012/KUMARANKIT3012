@@ -6,7 +6,7 @@
 
 - 🎓 **First-Year Computer Science Student** @ Sathyabama Institute of Science and Technology
 - 🔍 Exploring **Data Structures & Algorithms (DSA)** in **C++**, enhancing analytical skills and problem-solving abilities
-- 🛠️ Built a solid foundation in **Python** and **SQL**, enabling effective data handling and understanding of core programming concepts
+- 🛠️ Built a solid foundation in **Python**, enabling effective data handling and understanding of core programming concepts
 - 🌱 Preparing to dive into **Web Development**, expanding my technical expertise
 - 🚀 Passionate about learning, solving real-world problems, and contributing to meaningful innovations
 - 🤝 Always eager to connect with like-minded individuals who share a love for technology
@@ -18,7 +18,7 @@
 ### Programming Languages:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### Web Development:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 ---
 
