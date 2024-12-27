@@ -1,7 +1,5 @@
 # 👋 Hello, World! I'm **Ankit Kumar**  
 
-![Profile Banner]()
-
 <div align="center">
   <img src="https://img.shields.io/badge/Student-Coding%20Explorer-blueviolet?style=for-the-badge" alt="Student Badge"/>
   <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Projects%20%26%20Learning-orange?style=for-the-badge" alt="Collaboration Badge"/>
