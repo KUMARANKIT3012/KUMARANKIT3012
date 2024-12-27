@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm **Ankit Kumar**  
 
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Ankit's+GitHub+Profile!)
+![Profile Banner]()
 
 <div align="center">
   <img src="https://img.shields.io/badge/Student-Coding%20Explorer-blueviolet?style=for-the-badge" alt="Student Badge"/>
