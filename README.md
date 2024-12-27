@@ -1,15 +1,10 @@
 # 👋 Hello, World! I'm **Ankit Kumar**  
 
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Ankit's+GitHub+Profile!&color=gradient)
+![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Ankit's+GitHub+Profile!)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Student-Coding%20Explorer-blueviolet?style=for-the-badge" alt="Student Badge"/>
   <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Projects%20%26%20Learning-orange?style=for-the-badge" alt="Collaboration Badge"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/placeholder-banner1.png" alt="Inspirational Coding" width="400"/>
-  <img src="https://user-images.githubusercontent.com/123456789/placeholder-banner2.png" alt="Tech Passion" width="400"/>
 </div>
 
 ## 💻 About Me
@@ -46,18 +41,14 @@
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/placeholder-tools1.png" alt="Coding Tools" width="400"/>
-</div>
-
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-kumar&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KUMARANKIT3012&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumar&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARANKIT3012&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
@@ -78,10 +69,6 @@
 > Coding is like magic; once you master the spells, the possibilities are endless! 🧙‍♂️✨
 
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/placeholder-funfact1.png" alt="Fun Fact Coding" width="400"/>
-</div>
 
 <div align="center">
   <em>Feel free to reach out or check out my repositories! Let's innovate together! 🚀</em>
