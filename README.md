@@ -7,7 +7,7 @@
 
 ## 💻 About Me
 
-- 🎓 **First-Year Computer Science Student** @ Sathyabama Institute of Science and Technology
+- 🎓 **Second-Year Computer Science Student** @ Sathyabama Institute of Science and Technology
 - 🔍 Exploring **Data Structures & Algorithms (DSA)** in **C++**, enhancing analytical skills and problem-solving abilities
 - 🛠️ Built a solid foundation in **Python**, enabling effective data handling and understanding of core programming concepts
 - 🌱 Preparing to dive into **Web Development**, expanding my technical expertise
