@@ -72,7 +72,7 @@
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KUMARANKIT3012&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=KUMARANKIT3012&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
