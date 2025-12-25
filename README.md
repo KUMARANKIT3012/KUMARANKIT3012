@@ -25,12 +25,12 @@ name: Ankit Kumar
 role: Full Stack Developer
 location: India
 education: Computer Science Engineering
-interests:
+currently_learning:
   - Web Development
   - Open Source
   - Problem Solving
   - Learning New Technologies
-currently_learning:
+interests:
   - Advanced React Patterns
   - System Design
   - Cloud Architecture
@@ -261,7 +261,6 @@ If you like my work and want to support me:
 
 ### Thanks for visiting! 👋
 
-![Snake animation](https://github.com/KUMARANKIT3012/KUMARANKIT3012/blob/output/github-contribution-grid-snake.svg)
 
 **Show some ❤️ by starring some of the repositories!**
 
