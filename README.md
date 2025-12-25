@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-> Passionate software developer with a keen interest in building scalable applications and exploring cutting-edge technologies. I thrive on solving complex problems and turning innovative ideas into reality through clean, efficient code.
+> Passionate software developer with a keen interest in building scalable applications and exploring cutting-edge technologies. I thrive on solving complex problems and turning innovative ideas into reality.
 
 - 🔭 I'm currently working on **Full-Stack Web Applications using React and Node.js**
 - 🌱 I'm currently learning **Cloud Architecture (AWS/Azure), Machine Learning, and System Design**
@@ -34,10 +34,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -59,21 +56,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMARANKIT3012&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARANKIT3012&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KUMARANKIT3012&theme=radical&hide_border=true)
-  
+
+<img src="https://github-readme-stats.vercel.app/api?username=KUMARANKIT3012&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARANKIT3012&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KUMARANKIT3012&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KUMARANKIT3012&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-  
+
+<img src="https://github-profile-trophy.vercel.app/?username=KUMARANKIT3012&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
 </div>
 
 ## 📈 Contribution Graph
