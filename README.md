@@ -1,73 +1,86 @@
-# 👋 Hello, World! I'm **Ankit Kumar**  
+# Hi there, I'm Ankit Kumar 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Student-Coding%20Explorer-blueviolet?style=for-the-badge" alt="Student Badge"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Projects%20%26%20Learning-orange?style=for-the-badge" alt="Collaboration Badge"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=KUMARANKIT3012&color=blueviolet&style=flat-square)
+  
 </div>
 
-## 💻 About Me
+## 🚀 About Me
 
-- 🎓 **Second-Year Computer Science Student** @ Sathyabama Institute of Science and Technology
-- 🔍 Exploring **Data Structures & Algorithms (DSA)** in **C++**, enhancing analytical skills and problem-solving abilities
-- 🛠️ Built a solid foundation in **Python**, enabling effective data handling and understanding of core programming concepts
-- 🌱 Preparing to dive into **Web Development**, expanding my technical expertise
-- 🚀 Passionate about learning, solving real-world problems, and contributing to meaningful innovations
-- 🤝 Always eager to connect with like-minded individuals who share a love for technology
+> [Add a brief introduction about yourself - your role, what you're passionate about, and what drives you]
+
+- 🔭 I'm currently working on **[Your current project]**
+- 🌱 I'm currently learning **[Technologies/skills you're learning]**
+- 👯 I'm looking to collaborate on **[Types of projects]**
+- 💬 Ask me about **[Your areas of expertise]**
+- ⚡ Fun fact: **[Something interesting about you]**
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6? style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMARANKIT3012&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARANKIT3012&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KUMARANKIT3012&theme=radical&hide_border=true)
+  
+</div>
+
+## 🏆 Featured Projects
+
+### [Project Name 1](link-to-repo)
+**Description:** Brief description of what this project does  
+**Tech Stack:** React, Node.js, MongoDB  
+**Highlights:** 
+- ✨ Key feature 1
+- 🚀 Key feature 2
+- 💡 Key feature 3
+
+### [Project Name 2](link-to-repo)
+**Description:** Brief description of what this project does  
+**Tech Stack:** Python, Django, PostgreSQL  
+**Highlights:** 
+- ✨ Key feature 1
+- 🚀 Key feature 2
+
+## 📫 Connect with Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](your-portfolio-url)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+  
+</div>
 
 ---
 
-## 🚀 Technologies & Tools
-
-### Programming Languages:
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-</div>
-
-### Web Development:
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-### Tools:
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUMARANKIT3012&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARANKIT3012&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/ankit-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ankitkumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ankitkumarsist/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:ankitkumar16729@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
----
-
-## 💡 Fun Fact
-
-> Coding is like magic; once you master the spells, the possibilities are endless! 🧙‍♂️✨
-
----
-
-<div align="center">
-  <em>Feel free to reach out or check out my repositories! Let's innovate together! 🚀</em>
+  
+  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  
+  Made with ❤️ by Ankit Kumar
+  
 </div>
