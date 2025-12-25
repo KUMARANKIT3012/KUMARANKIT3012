@@ -1,187 +1,268 @@
-# Hi there, I'm Ankit Kumar 👋
+<div align="center">
+  
+# 👋 Hey there! I'm Ankit Kumar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 📊 Profile Views
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=KUMARANKIT3012&color=blueviolet&style=flat-square)
-  
+![Profile Views](https://komarev.com/ghpvc/?username=KUMARANKIT3012&color=brightgreen&style=for-the-badge)
+
 </div>
+
+---
 
 ## 🚀 About Me
 
-> Passionate software developer with a keen interest in building scalable applications and exploring cutting-edge technologies. I thrive on solving complex problems and turning innovative ideas into reality.
+```yaml
+name: Ankit Kumar
+role: Full Stack Developer
+location: India
+education: Computer Science Engineering
+interests:
+  - Web Development
+  - Open Source
+  - Problem Solving
+  - Learning New Technologies
+currently_learning:
+  - Advanced React Patterns
+  - System Design
+  - Cloud Architecture
+```
 
-- 🔭 I'm currently working on **Full-Stack Web Applications using React and Node.js**
-- 🌱 I'm currently learning **Cloud Architecture (AWS/Azure), Machine Learning, and System Design**
-- 👯 I'm looking to collaborate on **Open Source Projects, Web Development, and Innovative Tech Solutions**
-- 💬 Ask me about **JavaScript, React, Node.js, Python, API Design, and Database Optimization**
-- 🎯 2025 Goals: **Contribute more to Open Source, Build scalable applications, and Master Cloud Technologies**
-- ⚡ Fun fact: **I debug code faster when listening to music 🎵**
+---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KUMARANKIT3012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=1F6FEB" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARANKIT3012&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
+### 📈 Profile Statistics (As of December 25, 2025)
+
+| Metric | Value |
+|--------|-------|
+| 🌟 **Total Stars Earned** | Check profile for latest count |
+| 📦 **Public Repositories** | Growing collection of projects |
+| 👥 **Followers** | Building connections |
+| 📝 **Total Commits (2025)** | Consistent contributions |
+| 🔥 **Current Streak** | Active developer |
+| 📊 **Contribution Level** | Regular contributor |
+
+### 💻 Coding Activity
+
+| Category | Status |
+|----------|--------|
+| **Most Used Language** | JavaScript/Python |
+| **Code Quality** | Following best practices |
+| **Project Diversity** | Full-stack projects |
+| **Open Source** | Active contributor |
 
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUMARANKIT3012&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak" />
-
-</div>
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="120" alt="YOLO" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="120" alt="Quickdraw" />
-  
-  <br><br>
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KUMARANKIT3012&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+
+### 🎯 Achievement Highlights
+
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" alt="Pull Shark" />
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" alt="Pull Shark" />
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="120" alt="YOLO" />
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="120" alt="Quickdraw" />
+
+<br><br>
+
+| Trophy | Description |
+|--------|-------------|
+| ⭐ **Repositories** | Multiple public repositories |
+| 💪 **Commits** | Regular contribution streak |
+| 🌟 **Stars** | Community appreciation |
+| 🔄 **Pull Requests** | Open source contributions |
+| 📝 **Issues** | Problem solving & collaboration |
 
 </div>
+
+---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KUMARANKIT3012&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)
-  
+
+### 📅 Activity Overview (2025)
+
+| Quarter | Activity Level |
+|---------|---------------|
+| **Q1 (Jan-Mar)** | 🟢 Active |
+| **Q2 (Apr-Jun)** | 🟢 Active |
+| **Q3 (Jul-Sep)** | 🟢 Active |
+| **Q4 (Oct-Dec)** | 🟢 Active - Current |
+
+**Contribution Highlights:**
+- ✅ Consistent daily commits
+- ✅ Multiple repository contributions
+- ✅ Active code reviews
+- ✅ Documentation improvements
+
 </div>
 
-## 🏆 Featured Projects
+---
 
-### [Project Name 1](https://github.com/KUMARANKIT3012)
-**Description:** A full-stack e-commerce platform with real-time inventory management and secure payment integration  
-**Tech Stack:** React, Node.js, Express, MongoDB, Stripe API  
-**Highlights:** 
-- ✨ Real-time inventory tracking with WebSocket integration
-- 🚀 Secure authentication using JWT and bcrypt
-- 💡 Payment gateway integration with Stripe
-- 🎨 Responsive UI with modern design principles
-- 📊 Admin dashboard for analytics and management
+## 🎯 Featured Projects
 
-### [Project Name 2](https://github.com/KUMARANKIT3012)
-**Description:** AI-powered task management application with smart scheduling and priority optimization  
-**Tech Stack:** Python, Django, PostgreSQL, TensorFlow, React  
-**Highlights:** 
-- ✨ Machine learning-based task priority prediction
-- 🚀 RESTful API with comprehensive documentation
-- 💡 Real-time notifications and reminders
-- 📱 Progressive Web App (PWA) support
+<div align="center">
 
-### [Project Name 3](https://github.com/KUMARANKIT3012)
-**Description:** Social media analytics dashboard with data visualization and sentiment analysis  
-**Tech Stack:** Next.js, TypeScript, Chart.js, Python, NLP  
-**Highlights:** 
-- ✨ Interactive data visualizations with Chart.js
-- 🚀 Sentiment analysis using Natural Language Processing
-- 💡 Export reports in multiple formats (PDF, CSV, JSON)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects | React, TailwindCSS |
+| 📱 **Project 2** | Description coming soon | JavaScript, Node.js |
+| 💼 **Project 3** | Description coming soon | Python, MongoDB |
+
+</div>
+
+---
 
 ## 💼 Experience & Skills
 
-### Core Competencies
-- 💻 **Full-Stack Development** - Building end-to-end web applications
-- 🎨 **UI/UX Design** - Creating intuitive and responsive user interfaces
-- 🗄️ **Database Design** - Optimizing data structures and queries
-- 🔐 **Security** - Implementing authentication, authorization, and data protection
-- 🧪 **Testing** - Unit testing, integration testing, and TDD practices
-- 📱 **Responsive Design** - Mobile-first approach and cross-browser compatibility
+```javascript
+const ankitKumar = {
+    code: ["JavaScript", "Python", "Java", "C++"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "HTML5", "CSS3"],
+            css: ["TailwindCSS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Django", "Flask"]
+        },
+        databases: ["MongoDB", "MySQL"],
+        misc: ["Git", "GitHub", "REST APIs"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm not ashamed!"
+};
+```
 
-### Soft Skills
-- 🤝 Team Collaboration & Communication
-- 🎯 Problem Solving & Critical Thinking
-- 📚 Continuous Learning & Adaptability
-- ⏰ Time Management & Organization
+---
 
-## 📚 Latest Blog Posts
+## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- Coming soon...
+- Coming Soon: My journey in tech
+- Coming Soon: Best practices in web development
+- Coming Soon: Tips for aspiring developers
 <!-- BLOG-POST-LIST:END -->
 
-## 📫 Connect with Me
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KUMARANKIT3012)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KUMARANKIT3012)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-url.com)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/KUMARANKIT3012)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
 </div>
+
+---
 
 ## 💰 Support My Work
 
 <div align="center">
-  
-  [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/KUMARANKIT3012)
-  
+
+If you like my work and want to support me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourhandle)
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📊 Profile Summary Card
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUMARANKIT3012&theme=radical)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💭 Quote of the Day
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ### 📊 Profile Summary
-  
-  ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUMARANKIT3012&theme=tokyonight)
-  
-  ---
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-  **"First, solve the problem. Then, write the code."** – John Johnson
-  
-  Made with ❤️ by Ankit Kumar
-  
-  ![Visitor Count](https://profile-counter.glitch.me/KUMARANKIT3012/count.svg)
-  
+
+### ⚡ Fun Facts
+
+- 🔭 I'm currently working on exciting web projects
+- 🌱 I'm constantly learning and improving my skills
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about web development, DSA, or anything tech
+- ⚡ Fun fact: I think coding is a form of art!
+
+</div>
+
+---
+
+<div align="center">
+
+**"Code is like humor. When you have to explain it, it's bad!"** – Cory House
+
+---
+
+### Thanks for visiting! 👋
+
+![Snake animation](https://github.com/KUMARANKIT3012/KUMARANKIT3012/blob/output/github-contribution-grid-snake.svg)
+
+**Show some ❤️ by starring some of the repositories!**
+
 </div>
