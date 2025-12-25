@@ -219,7 +219,7 @@ If you like my work and want to support me:
 
 ---
 
-## 💭 Quote of the Day
+## 💭 I like this Quote Though
 
 <div align="center">
 
