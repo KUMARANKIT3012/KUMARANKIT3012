@@ -56,20 +56,24 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KUMARANKIT3012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=1F6FEB" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARANKIT3012&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=KUMARANKIT3012&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARANKIT3012&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KUMARANKIT3012&theme=radical&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUMARANKIT3012&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KUMARANKIT3012&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KUMARANKIT3012&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
@@ -77,7 +81,7 @@
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KUMARANKIT3012&theme=react-dark&hide_border=true&area=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KUMARANKIT3012&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)
   
 </div>
 
@@ -157,11 +161,11 @@
   
   ### 💭 Quote of the Day
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   ### 📊 Profile Summary
   
-  ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUMARANKIT3012&theme=radical)
+  ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUMARANKIT3012&theme=tokyonight)
   
   ---
   
